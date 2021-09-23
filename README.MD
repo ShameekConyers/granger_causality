@@ -14,10 +14,6 @@ working directory to the root of this download.
 
 run
 ```shell
-	conda activate cenv
-```
-or
-```shell
 	pip install -r requirements.txt
 ```
 
