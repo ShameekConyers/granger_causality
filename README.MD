@@ -5,7 +5,8 @@
 A set of tests to see how well granger's test for causality applies for
 varies datasets.
 
-Article can be found here:
+## Source Article
+Corresponding article to accompany the code can be found <a href=https://shameekconyers.com/projects/granger_causality> here </a>
 
 ## Installation Instructions
 
